@@ -55,7 +55,7 @@ print("new changes to the file")
 # print(age,"\t\t",name,"\t\t",city)
 
 
-#simple interest
+
 
 
 
